@@ -27,6 +27,6 @@ Structural variations have attracted remarkable attention in both evolutionary a
 
 ## Objectives
 
-This studyseeks to investigate novel structural variants in chronic kidney disease
+This study seeks to investigate novel structural variants in chronic kidney disease
 
 ## Workflow
