@@ -38,3 +38,20 @@ This study seeks to investigate novel structural variants in chronic kidney dise
 <p align="center">
 Figure 1: Detailed flow of the various methods carried out in the study.   
 </p>
+
+
+### Bioinformatics Tools Required 
+```
+GATK
+FastQC
+Trim Galore
+SAMtool
+Burrows Wheeler Aligner
+Picard
+DELLY
+MANTA
+CNVnator
+ANNOVAR
+SV Typer
+Genomestrip
+```
