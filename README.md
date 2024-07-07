@@ -30,3 +30,11 @@ Structural variations have attracted remarkable attention in both evolutionary a
 This study seeks to investigate novel structural variants in chronic kidney disease
 
 ## Workflow
+
+<p align="center">
+    <img width="100%" src="https://github.com/omicscodeathon/cdkvar/blob/main/workflow/Schema.jpeg" alt="Workflow">
+</p>
+
+<p align="center">
+Figure 1: Detailed flow of the various methods carried out in the study.   
+</p>
