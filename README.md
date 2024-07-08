@@ -56,3 +56,13 @@ ANNOVAR
 SV Typer
 Genomestrip
 ```
+### Contributors
+- [Firas Zemzem](https://github.com/Zemzemfiras1) : PhD student ,Laboratory of Cytogenetics, Molecular Genetics and Biology of Reproduction CHU Farhat Hached Sousse, Higher institute of Biotechnology of Monastir, University of Monastir, Tunisia.
+- [Chimenya Ntweya](https://github.com/Chimenya95) : ... 
+- [Olaitan I Awe](https://github.com/laitanawe) : Training officer, ASBCB, Cape Town, South Africa
+
+### Thank you to the following organizations: 
+
+- African Society for Bioinformatics and Computational Biology (ASBCB)
+
+- National Institutes of Health (NIH) Office of Data Science Strategy (ODSS)
