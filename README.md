@@ -32,7 +32,7 @@ This study seeks to investigate novel structural variants in chronic kidney dise
 ## Workflow
 
 <p align="center">
-    <img width="100%" src="https://github.com/omicscodeathon/cdkvar/blob/main/workflow/ckdvar.PNG" alt="Workflow">
+    <img width="100%" src="https://github.com/omicscodeathon/cdkvar/tree/main/workflow/ckdvar.PNG" alt="Workflow">
 </p>
 
 <p align="center">
