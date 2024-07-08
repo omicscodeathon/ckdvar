@@ -3,7 +3,7 @@
 # @[Firas Zemzem](https://github.com/Zemzemfiras1) 
 
 # Define the file containing SRA identifiers
-AccessionFilePath="./data/accessions.txt"
+AccessionFilePath="../data/accessions.txt"
 
 # Check if accessions.txt exists
 if [ ! -f "${AccessionFilePath}" ]; then
