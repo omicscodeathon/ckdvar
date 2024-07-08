@@ -11,7 +11,7 @@ if [ ! -f "${AccessionFilePath}" ]; then
     exit 1
 fi
 
-mkdir -p data/fastq/
+mkdir -p ../data/fastq/
 
 
 # Assign command-line arguments to variables
