@@ -11,7 +11,10 @@ if [ ! -f "${AccessionFilePath}" ]; then
     exit 1
 fi
 
-mkdir -p ../data/fastq/
+# Create Dir for Fastq files
+fastqDir="../data/fastq/"
+
+mkdir -p ${fastqDir}
 
 
 # Assign command-line arguments to variables
@@ -23,13 +26,9 @@ for sra_id in $(sed -n "${start_line},${end_line}p" "$AccessionFilePath"); do
     
     echo "Downloading FASTQ data for accession ID: $sra_id"
     
-    fastq-dump -A "$sra_id" --split-files -O data/fastq/
+    fastq-dump -A "$sra_id" --split-files -O ${fastqDir}
     
     echo "Download completed for accession ID: $sra_id"
 done
-
-echo "All downloads completed successfully."
-
-    
 
 
