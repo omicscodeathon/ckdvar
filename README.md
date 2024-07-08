@@ -42,10 +42,11 @@ Figure 1: Detailed flow of the various methods carried out in the study.
 
 ### Bioinformatics Tools Required 
 ```
-GATK
+sra-tools
 FastQC
 Trim Galore
-SAMtool
+GATK
+SAMtools
 Burrows Wheeler Aligner
 Picard
 DELLY
