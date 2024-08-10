@@ -59,6 +59,7 @@ Genomestrip
 ### Contributors
 - [Firas Zemzem](https://github.com/Zemzemfiras1) : PhD student ,Laboratory of Cytogenetics, Molecular Genetics and Biology of Reproduction CHU Farhat Hached Sousse, Higher institute of Biotechnology of Monastir, University of Monastir, Tunisia.
 - [Chimenya Ntweya](https://github.com/Chimenya95) : Department of medical Laboratory, Queen Elizabeth Central Hospital, Blantyre, malawi.
+- [Mandar Bedse](https://github.com/mandarbedse) : Sr. Associate, Cognizant Techology Solutions, Pune, India
 - [Olaitan I Awe](https://github.com/laitanawe) : Training officer, ASBCB, Cape Town, South Africa
 
 ### Thank you to the following organizations: 
