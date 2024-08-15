@@ -57,7 +57,11 @@ SV Typer
 Genomestrip
 ```
 ## Methods
- -
+ - The data for this analysis was retrieved from the NCBI (https://www.ncbi.nlm.nih.gov/) SRA database Bioproject PRJNA 863410 was selected to be used in the analysis.
+ - The quality control of the dataset were checked using FastQC, it provide a simple way to do some quality control checks on raw sequence data
+ - Raw reads were trimmed to a minimum base quality using trimmomatic, the tool was used to adapters, low quality reads and the reads were shorter after trimming.
+ - The filtered reads were aligned to the hg38 human genome  reference sequence using Burrow-Wheeler Aligner (BWA).
+ - Mapping was done using Burrow-Wheeler Aligner (BWA) to generate reads for SAM files for base quality score recalibration and variant calling.
 
 ### Contributors
 - [Firas Zemzem](https://github.com/Zemzemfiras1) : PhD student ,Laboratory of Cytogenetics, Molecular Genetics and Biology of Reproduction CHU Farhat Hached Sousse, Higher institute of Biotechnology of Monastir, University of Monastir, Tunisia.
