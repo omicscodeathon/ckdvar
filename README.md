@@ -57,6 +57,7 @@ SV Typer
 Genomestrip
 ```
 ## Methods
+ -
 
 ### Contributors
 - [Firas Zemzem](https://github.com/Zemzemfiras1) : PhD student ,Laboratory of Cytogenetics, Molecular Genetics and Biology of Reproduction CHU Farhat Hached Sousse, Higher institute of Biotechnology of Monastir, University of Monastir, Tunisia.
